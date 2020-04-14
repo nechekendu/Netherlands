@@ -1,0 +1,11 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Cardo', serif;
+}
+/* .carousel-item {
+    width: 187px;
+    height: 377px;
+} */
+.carousel-caption {
+    font-weight: 33px;
+}
